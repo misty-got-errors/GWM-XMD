@@ -26,7 +26,7 @@ const config = {
   REPO_NAME: process.env.REPO_NAME || "Misty's bug roject",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/vy8uyv.jpg",
   URL_CHANNEL: process.env.URL_CHANNEL || "https://whatsapp.com/channel/0029VbCZ6JNLY6dBhDfmCY1K", 
-  DESCRIPTION: process.env.DESCRIPTION || "njabulo",
+  DESCRIPTION: process.env.DESCRIPTION || "Misty",
   OWNER_NAME: process.env.OWNER_NAME || "Misty",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "94754789819",
   ID_CHANNEL: process.env._CHANNEL || "120363424849971461@newsletter",
